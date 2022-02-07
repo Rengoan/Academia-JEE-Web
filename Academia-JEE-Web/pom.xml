@@ -5,7 +5,7 @@
     <artifactId>Academia-JEE-Web</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>Academia-JEE-Web-1.0</name>
+    <name>Academia-JEE-Web</name>
     
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -17,12 +17,6 @@
     </properties>
     
     <dependencies>
-        <dependency>
-            <groupId>javax</groupId>
-            <artifactId>javaee-api</artifactId>
-            <version>${jakartaee}</version>
-            <scope>provided</scope>
-        </dependency>
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>

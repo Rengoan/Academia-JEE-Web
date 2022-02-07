@@ -1,5 +1,6 @@
-C:\2ºDAM\2ºTrimestre\GitHub\AcademiaJEE\Academia-JEE-Web\src\main\java\com\ceep\academia\service\IPersonaService.java
-C:\2ºDAM\2ºTrimestre\GitHub\AcademiaJEE\Academia-JEE-Web\src\main\java\com\ceep\academia\service\IPersonaServiceRemote.java
-C:\2ºDAM\2ºTrimestre\GitHub\AcademiaJEE\Academia-JEE-Web\src\main\java\com\ceep\academia\domain\Persona.java
-C:\2ºDAM\2ºTrimestre\GitHub\AcademiaJEE\Academia-JEE-Web\src\main\java\com\ceep\academia\cliente\ClientePersonaService.java
-C:\2ºDAM\2ºTrimestre\GitHub\AcademiaJEE\Academia-JEE-Web\src\main\java\com\ceep\academia\service\PersonaServiceImpl.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\client\ClientePersonaService.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\service\IPersonaService.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\domain\Persona.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\service\IPersonaServiceRemote.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\service\PersonaServiceImpl.java
+C:\2ºDAM\2ºTrimestre\GitHub\Academia-JEE-Web\Academia-JEE-Web\src\main\java\com\ceep\academia\web\PersonaServlet.java
