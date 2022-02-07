@@ -1,0 +1,5 @@
+com\ceep\academia\service\IPersonaService.class
+com\ceep\academia\service\PersonaServiceImpl.class
+com\ceep\academia\cliente\ClientePersonaService.class
+com\ceep\academia\domain\Persona.class
+com\ceep\academia\service\IPersonaServiceRemote.class
